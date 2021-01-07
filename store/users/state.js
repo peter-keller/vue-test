@@ -1,5 +1,6 @@
 const state = () => ({
-  data: []
+  totalUsers: [],
+  currentPage: {}
 })
 
 export default state
